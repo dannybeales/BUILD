@@ -1,0 +1,41 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7586
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Dan-Dev\Desktop\Hard Drive Dump\second-semester-s2-group-6-master\Game\Group Game\BUILD\Build V2\build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Dan-Dev\Desktop\Hard Drive Dump\second-semester-s2-group-6-master\Game\Group Game\BUILD\Build V2\build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Dan-Dev\Desktop\Hard Drive Dump\second-semester-s2-group-6-master\Game\Group Game\BUILD\Build V2\build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Dan-Dev\Desktop\Hard Drive Dump\second-semester-s2-group-6-master\Game\Group Game\BUILD\Build V2\build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Dan-Dev\Desktop\Hard Drive Dump\second-semester-s2-group-6-master\Game\Group Game\BUILD\Build V2\build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Dan-Dev\Desktop\Hard Drive Dump\second-semester-s2-group-6-master\Game\Group Game\BUILD\Build V2\build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Dan-Dev\Desktop\Hard Drive Dump\second-semester-s2-group-6-master\Game\Group Game\BUILD\Build V2\build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Dan-Dev\Desktop\Hard Drive Dump\second-semester-s2-group-6-master\Game\Group Game\BUILD\Build V2\build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Dan-Dev\Desktop\Hard Drive Dump\second-semester-s2-group-6-master\Game\Group Game\BUILD\Build V2\build_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Dan-Dev\Desktop\Hard Drive Dump\second-semester-s2-group-6-master\Game\Group Game\BUILD\Build V2\build_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Dan-Dev\Desktop\Hard Drive Dump\second-semester-s2-group-6-master\Game\Group Game\BUILD\Build V2\build_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Dan-Dev\Desktop\Hard Drive Dump\second-semester-s2-group-6-master\Game\Group Game\BUILD\Build V2\build_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.034 seconds
+Platform assembly: C:\Users\Dan-Dev\Desktop\Hard Drive Dump\second-semester-s2-group-6-master\Game\Group Game\BUILD\Build V2\build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Dan-Dev\Desktop\Hard Drive Dump\second-semester-s2-group-6-master\Game\Group Game\BUILD\Build V2\build_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.080626 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.236118 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 441.
+Total: 0.144733 ms (FindLiveObjects: 0.019483 ms CreateObjectMapping: 0.014612 ms MarkObjects: 0.099967 ms  DeleteObjects: 0.010205 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.337014 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 335.
+Total: 0.303614 ms (FindLiveObjects: 0.042909 ms CreateObjectMapping: 0.042677 ms MarkObjects: 0.204806 ms  DeleteObjects: 0.011365 ms)
+
